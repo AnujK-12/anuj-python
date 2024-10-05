@@ -1,3 +1,6 @@
+
+# mysql.exe -u name -p
+#use db name
 import mysql.connector
 d={
     "user":"root",

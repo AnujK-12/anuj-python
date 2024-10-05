@@ -22,3 +22,4 @@ with ZipFile("archive.zip","w")as zip:
 #     filename="archive.zip"
 #     with ZipFile(filename,"r") as zip:
 #         zip.extractall()
+extractZip()
